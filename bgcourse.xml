@@ -1,7 +1,8 @@
-<html>
-<head><title>406 Not Acceptable</title></head>
-<body bgcolor="white">
-<center><h1>406 Not Acceptable</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
+<?xml version="1.0" encoding="utf-8"?>
+<currencies>
+<rate code="EUR" value="78.98"/>
+<rate code="USD" value="72.03"/><BYR><rate code="EUR" value="20707"/>
+<rate code="USD" value="18929"/>
+<rate code="RUR" value="272.0"/></BYR>
+<UAH><rate code="EUR" value="26.5"/>
+<rate code="USD" value="24.2"/></UAH></currencies>
