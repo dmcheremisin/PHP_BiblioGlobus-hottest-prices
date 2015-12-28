@@ -1,4 +1,4 @@
-<Files connect.php>
+<Files functions.php>
     Order Deny,Allow
     Deny from all
 </Files>
