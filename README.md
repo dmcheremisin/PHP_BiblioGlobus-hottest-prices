@@ -8,10 +8,15 @@ Instructions:
 It uses ajax for updating user requests.
 
 It is assumed that your are interested in prices from Saint-Petersburg.
+
 If you need Moscow or other cities, you should change in the index.php line:
+
 $bg->checkFile('http://export.bgoperator.ru/auto/auto-spo-100510001075v2-124331253701.js','bggarant.txt');
+
 For example, for Moscow you should change url to http://export.bgoperator.ru/auto/auto-spo-100510000863v2-124331253701.js.
+
 All data will be stored in a text file 'bggarant.txt' and automatically updated every 1 hour.
+
 All prices are automatically converted in rubles according to Biblio Globus internal course.
 
 For further information, you should visit http://export.bgoperator.ru/load-xml-prices.html.
